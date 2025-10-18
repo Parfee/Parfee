@@ -16,15 +16,7 @@
 
 ## Proqramlaşdırma dilləri və texnologiyalar
 
-HTML/CSS, JavaScript, Node.js, Back‑End scripting (Bash), API development, SQLite, MongoDB, və DevOps alətləri ilə təcrübə.
-
-## Komanda işinə yanaşma
-
-Komanda işinə açığam, kommunikasiya və sənədləşməyə önəm verirəm. Yenilikçi həllər axtarıram və real layihələrdə aktiv iştirak edirəm.
-
-## Hədəflər
-
-Texnoloji yenilikləri daim izləyir və biliklərimi təzələyirəm. Məqsədim **beynəlxalq səviyyədə tanınan sertifikatlarla ixtisaslaşmış mütəxəssis** və şirkətlər üçün **Kiber Təhlükəsizlik Expert**i olmaqdır.
+HTML/CSS, JavaScript, Node.js, Back‑End scripting (Bash), API development, SQLite, MongoDB, və Hacktiviy (101) alətləri ilə təcrübə.
 
 ## Paralel Fəaliyyət (Hazırkı Vəziyyət)
 
@@ -37,7 +29,6 @@ Təəssüf ki, oxuduğum və inkişaf etdiyim sahədə uyğun iş tapmaq çətin
 
 🕵️‍♂️ ***Şəbəkə, Linux və Etik Hacking***
  
-
 ---
 ---
 
