@@ -48,6 +48,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsec&layout=compact&theme=radical" height="180" />
 
 ---
+## 🎯 Fokus Sahələri
+
+- Penetrasiya Testləri və Zəiflik Qiymətləndirməsi
+- Web Tətbiq Təhlükəsizliyi
+- Bug Bounty və Trafik Analizi
+- Hadisələrə Cavabın Əsasları
+- Exploit / Bypass & Shell Runtime yerləşdirilməsi
+- Sistem Zəifliklərinin & Açıqların Bərpası (Linux/Windows)
+---
 
 ## 🎮 Discord
 <a href="https://discord.com/users/713117536220348477">
@@ -57,9 +66,10 @@
 ---
 
 ## 🌐 Əlaqə üçün  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekbermv)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mvsec)  
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@mail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekbermv)  
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mvsec)  
+- [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@mail.com) 
+- Email: [ekbermv@outlook.com](mailto:ekbermv@outlook.com)
 
 ---
 
