@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Salam! Mən MV (MVSEC)  
+# 💻 Salam! Mən MV *(Əkbər Mahmudow)*  
 
 ## 👨‍💻 Haqqımda  
 🔐 Kibertəhlükəsizlik (Cyber Security RHCSA+)  
