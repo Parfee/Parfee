@@ -68,8 +68,7 @@
 ## 🌐 Əlaqə üçün  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekbermv)  
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mvsec)  
-- [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@mail.com) 
-- Email: [ekbermv@outlook.com](mailto:ekbermv@outlook.com)
+- [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekbermv@outlook.com) 
 
 ---
 
