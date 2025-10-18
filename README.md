@@ -3,11 +3,11 @@
 # 💻 Salam! Mən MV *(Əkbər Mahmudow)*  
 
 ## 👨‍💻 **Haqqımda**
-🔐 **Kibertəhlükəsizlik (Cyber Security | RHCSA+)**\
+🔐 ***Kibertəhlükəsizlik (Cyber Security | RHCSA+)***
 
-⚡ **Open Source Enthusiast**\
+⚡ ***Open Source Enthusiast***
 
-🕵️‍♂️ **Şəbəkə, Linux və Etik Hacking**
+🕵️‍♂️ ***Şəbəkə, Linux və Etik Hacking***
  
 
 ---
