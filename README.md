@@ -104,6 +104,6 @@ Təəssüf ki, oxuduğum və inkişaf etdiyim sahədə uyğun iş tapmaq çətin
 ⚡ ***Linux Kerneli ile ARMX86 & X64 BASE yaradıram (Linux Modifikasiyası)
 📚 Kibertəhlükəsizlik və DevOps üzrə öyrəndiklərimi paylaşıram
 🏆 Basic-Advanced Real & Virtual şəraitdə CTF və Sızma testləri, açıqları bağlamaq, sistemi as admin (superuser) elementlərini ələ keçirmək üzrə tapşırıqları həll edirəm.
-🛡️ Penetrasiya testləri və etikal hackingdə, Back-End, Enterprise & DevOps və Bug Bounty davamlı təcrübə yığmaqdayam***
+🛡️ Penetrasiya testləri və etikal hackingdə, Back-End, Enterprise & DevOps və Bug Bounty davamlı təcrübə yığmaqdayam.***
 
 </div>
