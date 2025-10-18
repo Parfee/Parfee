@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mən Əkbər Mahmudow
+# Mən, Əkbər Mahmudow
 
 4 ilə yaxındır ki, Kibertəhlükəsizlik sahəsində **Yüksək Səviyyəli DevOps / Back‑End** mütəxəssisi kimi fəaliyyət göstərirəm. Kod yazmağı, CTF yarışlarına qatılmağı, bug‑bounty ilə zəiflik aşkarlamağı və biliklərimi davamlı inkişaf etdirməyi sevirəm. Yaradıcılıq mənim işimə daxil olan vacib tərəfdir — problemlərə həm texniki, həm də kreativ yanaşıram.
 
