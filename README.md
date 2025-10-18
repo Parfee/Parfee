@@ -82,7 +82,6 @@ Təəssüf ki, oxuduğum və inkişaf etdiyim sahədə uyğun iş tapmaq çətin
   <img src="https://img.shields.io/badge/Discord-%40mvsec-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
 
----
 
 ## 🌐 Əlaqə üçün  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekbermv)  
