@@ -40,6 +40,7 @@
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-3F3F3F?style=for-the-badge)  
 
 ---
+> *Notes:* All tools are used for **ethical security research**, penetration testing with permission, and defensive posture improvements.
 ---
 
 ## 📊 GitHub Statistikalarım
