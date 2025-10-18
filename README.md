@@ -10,17 +10,49 @@
 ---
 
 ## 🚀 Dillər & Alətlər  
-**Dillər:**  
+
+### 🧠 Dillər  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=windows-powershell&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-**Tools & Platforms:**  
+🧩 *İstifadə məqsədləri:*  
+- **Python** – avtomatlaşdırma, exploit yazımı, şəbəkə analizi (Scapy, Requests).  
+- **JavaScript / PHP** – web exploitlər, XSS, RCE analizləri.  
+- **C / C++ / Bash** – low-level test, reverse engineering, script yazımı.  
+- **PowerShell** – Windows penetration və AD idarəçiliyi.  
+
+---
+
+### 🧰 Tools & Platforms  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6A00?style=for-the-badge)  
+![Nmap](https://img.shields.io/badge/Nmap-7B7B7B?style=for-the-badge&logo=nmap&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1769A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)  
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-3F3F3F?style=for-the-badge)  
+
+🧩 *İstifadə məqsədləri:*  
+- **Linux** – əsas əməliyyat sistemi (Kali, Parrot, Ubuntu).  
+- **Git** – kod və skriptlərin versiya nəzarəti.  
+- **Burp Suite / ZAP / Nmap** – web və şəbəkə təhlükəsizlik testləri.  
+- **Wireshark / Metasploit** – trafik analiz və exploit framework.  
+- **VS Code** – universal kodlaşdırma mühiti.  
+- **MySQL** – verilənlər bazası strukturları və SQL testləri.  
+
+---
+
+> 💡 *Bu bölmə həm GitHub profil README.md faylında, həm də şəxsi portfel saytında istifadə oluna bilər. İstəsən bunu dark/light temaya uyğun və ya ingiliscə versiyada da hazırlaya bilərəm.*
+  
 
 ---
 
