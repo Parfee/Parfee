@@ -12,7 +12,7 @@
 - **Platformalar:** Masaüstü, Mobil və Server tərəfi üçün sıfırdan proqramlaşdırma bacarığı
 - **Physical Hacking:** Fiziki Hacking cihazları ilə iş və hardware‑level tədqiqatlar (ESP3866, ESP0938, Wifi PineApple+, Flipper Zero, OMG)
 - **CTF & Bug Bounty:** Təcrübə və aktiv iştirak — zəiflik tapmaq və məsul şəkildə bildirmək
-- **Databases:** SQLite, MongoDB və digər NoSQL/轻weight DBlərlə iş
+- **Databases:** SQLite, MongoDB və digər NoSQL / 轻weight DBlərlə iş
 
 ## Proqramlaşdırma dilləri və texnologiyalar
 
