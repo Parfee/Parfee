@@ -36,10 +36,6 @@
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-3F3F3F?style=for-the-badge)  
 
 ---
-
-> 💡 *Bu bölmə həm GitHub profil README.md faylında, həm də şəxsi portfel saytında istifadə oluna bilər. İstəsən bunu dark/light temaya uyğun və ya ingiliscə versiyada da hazırlaya bilərəm.*
-  
-
 ---
 
 ## 📊 GitHub Statistikalarım
