@@ -2,7 +2,7 @@
 
 # 💻 Salam! Mən MV *(Əkbər Mahmudow)*  
 
-## 👨‍💻 Haqqımda  
+## 👨‍💻 Haqqımda 👨‍💻
 🔐 ***Kibertəhlükəsizlik*** (Cyber Security RHCSA+) 
 
 ⚡ ***Açıq Mənbə (Open Source Enthusiast)***
