@@ -26,9 +26,9 @@ Komanda işinə açığam, kommunikasiya və sənədləşməyə önəm verirəm.
 
 Texnoloji yenilikləri daim izləyir və biliklərimi təzələyirəm. Məqsədim **beynəlxalq səviyyədə tanınan sertifikatlarla ixtisaslaşmış mütəxəssis** və şirkətlər üçün **Kiber Təhlükəsizlik Expert**i olmaqdır.
 
-## Paralel fəaliyyət (hazırkı vəziyyət)
+## Paralel Fəaliyyət (Hazırkı Vəziyyət)
 
-Təəssüf ki, oxuduğum və inkişaf etdiyim sahədə uyğun iş tapmaq çətinliyi ilə qarşılaşdığım üçün özümü gəlir mənbəyi kimi təşkil etmişəm: **Telefon və kompyuter təmiri**, proqramların yazılması və **GSM obyektinin** idarə olunması ilə məşğulam. Bu fəaliyyətlər həm praktiki bacarıqlarımı genişləndirir, həm də real‑dünya problemlərini həll etməyə imkan verir.  
+Təəssüf ki, oxuduğum və inkişaf etdiyim sahədə uyğun iş tapmaq çətinliyi ilə qarşılaşdığım üçün özümü gəlir mənbəyi kimi təşkil etmişəm: **Telefon və Kompyuter təmiri**, Proqramların yazılması və **GSM üzrə** ilə məşğulam. Bu fəaliyyətlər həm praktiki bacarıqlarımı genişləndirir, həm də real‑dünya problemlərini həll etməyə imkan verir.  
 
 ## 👨‍💻 **Haqqımda**
 🔐 ***Kibertəhlükəsizlik (Cyber Security | RHCSA+)***
