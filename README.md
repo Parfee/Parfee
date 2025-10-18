@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salam — Mən Əkbər Mahmudow
+# Mən Əkbər Mahmudow
 
 4 ilə yaxındır ki, Kibertəhlükəsizlik sahəsində **Yüksək Səviyyəli DevOps / Back‑End** mütəxəssisi kimi fəaliyyət göstərirəm. Kod yazmağı, CTF yarışlarına qatılmağı, bug‑bounty ilə zəiflik aşkarlamağı və biliklərimi davamlı inkişaf etdirməyi sevirəm. Yaradıcılıq mənim işimə daxil olan vacib tərəfdir — problemlərə həm texniki, həm də kreativ yanaşıram.
 
@@ -10,7 +10,7 @@
 - **Təcrübə:** \~4 il kibertəhlükəsizlik, sistem avtomatlaşdırılması və server administrasiyası
 - **Kodlaşdırma & Exploit:** Shell Scripting (Bash), Script / Tool inkişafı, Exploit yazmaq, API dizaynı və tətbiqi
 - **Platformalar:** Masaüstü, Mobil və Server tərəfi üçün sıfırdan proqramlaşdırma bacarığı
-- **Physical Hacking:** Fiziki Hacking cihazları ilə iş və hardware‑level tədqiqatlar (Rubby Ducky, ESP3866, ESP0938, Wifi PineApple+, Flipper Zero, OMG)
+- **Physical Hacking:** Fiziki Hacking cihazları ilə iş və hardware‑level tədqiqatlar (ESP3866, ESP0938, Wifi PineApple+, Flipper Zero, OMG)
 - **CTF & Bug Bounty:** Təcrübə və aktiv iştirak — zəiflik tapmaq və məsul şəkildə bildirmək
 - **Databases:** SQLite, MongoDB və digər NoSQL/轻weight DBlərlə iş
 
