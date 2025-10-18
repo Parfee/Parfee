@@ -1,6 +1,34 @@
 <div align="center">
 
-# 💻 Salam! Mən MV *(Əkbər Mahmudow)*  
+# Salam — Mən Əkbər Mahmudow
+
+4 ilə yaxındır ki, Kibertəhlükəsizlik sahəsində **Yüksək Səviyyəli DevOps / Back‑End** mütəxəssisi kimi fəaliyyət göstərirəm. Kod yazmağı, CTF yarışlarına qatılmağı, bug‑bounty ilə zəiflik aşkarlamağı və biliklərimi davamlı inkişaf etdirməyi sevirəm. Yaradıcılıq mənim işimə daxil olan vacib tərəfdir — problemlərə həm texniki, həm də kreativ yanaşıram.
+
+## Təcrübə və bacarıqlar
+
+- **Vəzifə:** Senior Cyber Security / Back‑End
+- **Təcrübə:** \~4 il kibertəhlükəsizlik, sistem avtomatlaşdırılması və server administrasiyası
+- **Kodlaşdırma & Exploit:** Shell Scripting (Bash), Script / Tool inkişafı, Exploit yazmaq, API dizaynı və tətbiqi
+- **Platformalar:** Masaüstü, Mobil və Server tərəfi üçün sıfırdan proqramlaşdırma bacarığı
+- **Physical Hacking:** Fiziki Hacking cihazları ilə iş və hardware‑level tədqiqatlar (Rubby Ducky, ESP3866, ESP0938, Wifi PineApple+, Flipper Zero, OMG)
+- **CTF & Bug Bounty:** Təcrübə və aktiv iştirak — zəiflik tapmaq və məsul şəkildə bildirmək
+- **Databases:** SQLite, MongoDB və digər NoSQL/轻weight DBlərlə iş
+
+## Proqramlaşdırma dilləri və texnologiyalar
+
+HTML/CSS, JavaScript, Node.js, Back‑End scripting (Bash), API development, SQLite, MongoDB, və DevOps alətləri ilə təcrübə.
+
+## Komanda işinə yanaşma
+
+Komanda işinə açığam, kommunikasiya və sənədləşməyə önəm verirəm. Yenilikçi həllər axtarıram və real layihələrdə aktiv iştirak edirəm.
+
+## Hədəflər
+
+Texnoloji yenilikləri daim izləyir və biliklərimi təzələyirəm. Məqsədim **beynəlxalq səviyyədə tanınan sertifikatlarla ixtisaslaşmış mütəxəssis** və şirkətlər üçün **Kiber Təhlükəsizlik Expert**i olmaqdır.
+
+## Paralel fəaliyyət (hazırkı vəziyyət)
+
+Təəssüf ki, oxuduğum və inkişaf etdiyim sahədə uyğun iş tapmaq çətinliyi ilə qarşılaşdığım üçün özümü gəlir mənbəyi kimi təşkil etmişəm: **Telefon və kompyuter təmiri**, proqramların yazılması və **GSM obyektinin** idarə olunması ilə məşğulam. Bu fəaliyyətlər həm praktiki bacarıqlarımı genişləndirir, həm də real‑dünya problemlərini həll etməyə imkan verir.  
 
 ## 👨‍💻 **Haqqımda**
 🔐 ***Kibertəhlükəsizlik (Cyber Security | RHCSA+)***
@@ -48,7 +76,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsec&layout=compact&theme=radical" height="180" />
 
 ---
-## 🎯 Fokus Sahələri
+## 🎯 Fokus Sahələrim
 
 - Penetrasiya Testləri və Zəiflik Qiymətləndirməsi
 - Web Tətbiq Təhlükəsizliyi
@@ -72,8 +100,10 @@
 
 ---
 
-## 🕶️ Fun Fact  
-***⚡ Çox vaxt Linux terminalında işləyirəm***  
-***📚 Kibertəhlükəsizlik üzrə öyrəndiklərimi paylaşıram***
+## 🕶️ Other's  
+⚡ ***Linux Kerneli ile ARMX86 & X64 BASE yaradıram (Linux Modifikasiyası)
+📚 Kibertəhlükəsizlik və DevOps üzrə öyrəndiklərimi paylaşıram
+🏆 Basic-Advanced Real & Virtual şəraitdə CTF və Sızma testləri, açıqları bağlamaq, sistemi as admin (superuser) elementlərini ələ keçirmək üzrə tapşırıqları həll edirəm.
+🛡️ Penetrasiya testləri və etikal hackingdə, Back-End, Enterprise & DevOps və Bug Bounty davamlı təcrübə yığmaqdayam***
 
 </div>
