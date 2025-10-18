@@ -9,9 +9,9 @@
 
 ---
 
-## 🚀 Dillər & Alətlər  
+## 🚀 Sahip olduğum dillər (Programming Language)  
 
-### 🧠 Dillər  
+### 🧩 Language  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
@@ -20,13 +20,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=windows-powershell&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-🧩 *İstifadə məqsədləri:*  
-- **Python** – avtomatlaşdırma, exploit yazımı, şəbəkə analizi (Scapy, Requests).  
-- **JavaScript / PHP** – web exploitlər, XSS, RCE analizləri.  
-- **C / C++ / Bash** – low-level test, reverse engineering, script yazımı.  
-- **PowerShell** – Windows penetration və AD idarəçiliyi.  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   
 
 ---
 
@@ -40,14 +34,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1769A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)  
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-3F3F3F?style=for-the-badge)  
-
-🧩 *İstifadə məqsədləri:*  
-- **Linux** – əsas əməliyyat sistemi (Kali, Parrot, Ubuntu).  
-- **Git** – kod və skriptlərin versiya nəzarəti.  
-- **Burp Suite / ZAP / Nmap** – web və şəbəkə təhlükəsizlik testləri.  
-- **Wireshark / Metasploit** – trafik analiz və exploit framework.  
-- **VS Code** – universal kodlaşdırma mühiti.  
-- **MySQL** – verilənlər bazası strukturları və SQL testləri.  
 
 ---
 
