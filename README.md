@@ -63,8 +63,8 @@ Təəssüf ki, oxuduğum və inkişaf etdiyim sahədə uyğun iş tapmaq çətin
 ---
 
 ## 📊 GitHub Statistikalarım
-<img src="https://github-readme-stats.vercel.app/api?username=mvsec&show_icons=true&theme=radical" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsec&layout=compact&theme=radical" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Parfee&show_icons=true&theme=radical" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parfee&layout=compact&theme=radical" height="180" />
 
 ---
 ## 🎯 Fokus Sahələrim
